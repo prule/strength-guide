@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400..700&family=Archivo:wght@400..700&display=swap" rel="stylesheet">
+<style>body{margin:0;background:#f7f3ec;color:#221d15;-webkit-font-smoothing:antialiased}a{color:#96401f}a:hover{color:#6e2d13}</style>
+</helmet>
+<div style="font-family:'Newsreader',Georgia,serif;background:#f7f3ec;min-height:100vh">
+<div style="max-width:1140px;margin:0 auto;padding:0 40px">
+
+<header style="display:flex;justify-content:space-between;align-items:baseline;padding:26px 0 18px;border-bottom:3px double #221d15">
+  <a href="index.html" style="font-size:26px;font-weight:600;letter-spacing:0.02em;color:#221d15;text-decoration:none">The Strength Archive</a>
+  <nav style="display:flex;gap:28px;font-family:'Archivo',sans-serif;font-size:12px;letter-spacing:0.14em;text-transform:uppercase">
+    <a href="#programs" style="color:#221d15;text-decoration:none" style-hover="color:#96401f">Programs</a>
+    <a href="#picker" style="color:#221d15;text-decoration:none" style-hover="color:#96401f">Find Your Program</a>
+    <a href="#compare" style="color:#221d15;text-decoration:none" style-hover="color:#96401f">Compare</a>
+  </nav>
+</header>
+
+<section style="padding:88px 0 72px;border-bottom:1px solid #d9d0bf">
+  <p style="margin:0 0 20px;font-family:'Archivo',sans-serif;font-size:12px;letter-spacing:0.18em;text-transform:uppercase;color:#96401f">An Informational Reference</p>
+  <h1 style="margin:0;font-size:88px;font-weight:500;line-height:1.02;letter-spacing:-0.015em;max-width:15ch;text-wrap:balance">A Guide to Strength Training</h1>
+  <p style="margin:36px 0 0;font-size:23px;line-height:1.5;font-style:italic;color:#57503f;max-width:62ch">This directory contains guides on some of the most effective, proven programs in the fitness industry, ranging from beginner barbell progressions to bodyweight mastery.</p>
+</section>
+
+<section style="padding:64px 0 72px;border-bottom:1px solid #d9d0bf">
+  <h2 style="margin:0 0 12px;font-size:34px;font-weight:500">The Benefits of Strength Training</h2>
+  <p style="margin:0 0 44px;font-size:19px;line-height:1.6;color:#57503f;max-width:70ch">Strength training is not just about building large muscles or lifting heavy weights for the sake of ego; it is arguably the most potent &ldquo;medicine&rdquo; available for long-term health and vitality.</p>
+  <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:0 64px">
+    <div style="display:flex;gap:24px;padding:26px 0;border-top:1px solid #d9d0bf">
+      <span style="font-size:44px;font-weight:400;font-style:italic;color:#c2b7a1;line-height:1">1</span>
+      <div><h3 style="margin:0 0 8px;font-size:20px;font-weight:600">Increased Muscle Mass and Strength</h3><p style="margin:0;font-size:16px;line-height:1.6;color:#57503f">Combats sarcopenia (age-related muscle loss) and builds the absolute strength required for daily tasks, extending your functional independence.</p></div>
+    </div>
+    <div style="display:flex;gap:24px;padding:26px 0;border-top:1px solid #d9d0bf">
+      <span style="font-size:44px;font-weight:400;font-style:italic;color:#c2b7a1;line-height:1">2</span>
+      <div><h3 style="margin:0 0 8px;font-size:20px;font-weight:600">Higher Bone Density</h3><p style="margin:0;font-size:16px;line-height:1.6;color:#57503f">The heavy mechanical loading of barbell training forces bones to adapt and become denser, drastically reducing the risk of osteoporosis and fractures.</p></div>
+    </div>
+    <div style="display:flex;gap:24px;padding:26px 0;border-top:1px solid #d9d0bf">
+      <span style="font-size:44px;font-weight:400;font-style:italic;color:#c2b7a1;line-height:1">3</span>
+      <div><h3 style="margin:0 0 8px;font-size:20px;font-weight:600">Improved Metabolic Health</h3><p style="margin:0;font-size:16px;line-height:1.6;color:#57503f">Muscle tissue is metabolically active. Building more muscle improves insulin sensitivity, helps manage blood sugar levels, and increases your resting metabolic rate.</p></div>
+    </div>
+    <div style="display:flex;gap:24px;padding:26px 0;border-top:1px solid #d9d0bf">
+      <span style="font-size:44px;font-weight:400;font-style:italic;color:#c2b7a1;line-height:1">4</span>
+      <div><h3 style="margin:0 0 8px;font-size:20px;font-weight:600">Joint Health and Injury Prevention</h3><p style="margin:0;font-size:16px;line-height:1.6;color:#57503f">Strength training strengthens not just muscles, but tendons and ligaments, creating a &ldquo;suit of armor&rdquo; that protects joints from injury.</p></div>
+    </div>
+    <div style="display:flex;gap:24px;padding:26px 0;border-top:1px solid #d9d0bf">
+      <span style="font-size:44px;font-weight:400;font-style:italic;color:#c2b7a1;line-height:1">5</span>
+      <div><h3 style="margin:0 0 8px;font-size:20px;font-weight:600">Mental Fortitude</h3><p style="margin:0;font-size:16px;line-height:1.6;color:#57503f">The discipline required to get under a heavy barbell and the confidence gained from physical capability translate directly to improved mental health and resilience.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="picker" style="padding:64px 0 72px;border-bottom:1px solid #d9d0bf">
+  <p style="margin:0 0 14px;font-family:'Archivo',sans-serif;font-size:12px;letter-spacing:0.18em;text-transform:uppercase;color:#96401f">Interactive</p>
+  <h2 style="margin:0 0 40px;font-size:34px;font-weight:500">Which program is right for me?</h2>
+  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:32px;max-width:1000px">
+    <label style="display:flex;flex-direction:column;gap:10px;font-family:'Archivo',sans-serif;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:#6b6152">Experience
+      <select onChange="{{ onExp }}" style="font-family:'Newsreader',Georgia,serif;font-size:17px;padding:10px 12px;background:#fffdf8;border:1px solid #c2b7a1;border-radius:0;color:#221d15;letter-spacing:normal;text-transform:none">
+        <option value="">Select&hellip;</option>
+        <option value="new">Brand new to lifting</option>
+        <option value="stalled">Experienced &mdash; progress has stalled</option>
+      </select>
+    </label>
+    <label style="display:flex;flex-direction:column;gap:10px;font-family:'Archivo',sans-serif;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:#6b6152">Age
+      <select onChange="{{ onAge }}" style="font-family:'Newsreader',Georgia,serif;font-size:17px;padding:10px 12px;background:#fffdf8;border:1px solid #c2b7a1;border-radius:0;color:#221d15;letter-spacing:normal;text-transform:none">
+        <option value="">Select&hellip;</option>
+        <option value="under40">Under 40</option>
+        <option value="over40">40 or over</option>
+      </select>
+    </label>
+    <label style="display:flex;flex-direction:column;gap:10px;font-family:'Archivo',sans-serif;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:#6b6152">Equipment
+      <select onChange="{{ onEquip }}" style="font-family:'Newsreader',Georgia,serif;font-size:17px;padding:10px 12px;background:#fffdf8;border:1px solid #c2b7a1;border-radius:0;color:#221d15;letter-spacing:normal;text-transform:none">
+        <option value="">Select&hellip;</option>
+        <option value="barbell">Full barbell gym</option>
+        <option value="minimal">Minimal &mdash; a pull-up bar at most</option>
+      </select>
+    </label>
+    <label style="display:flex;flex-direction:column;gap:10px;font-family:'Archivo',sans-serif;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:#6b6152">Time
+      <select onChange="{{ onTime }}" style="font-family:'Newsreader',Georgia,serif;font-size:17px;padding:10px 12px;background:#fffdf8;border:1px solid #c2b7a1;border-radius:0;color:#221d15;letter-spacing:normal;text-transform:none">
+        <option value="">Select&hellip;</option>
+        <option value="three">3+ days a week</option>
+        <option value="busy">2 days &mdash; I am busy</option>
+      </select>
+    </label>
+  </div>
+  <sc-if value="{{ hasRec }}" hint-placeholder-val="{{ false }}">
+    <div style="margin-top:48px;padding:40px 44px;background:#fffdf8;border:1px solid #d9d0bf;border-top:3px solid #96401f;max-width:760px">
+      <p style="margin:0 0 10px;font-family:'Archivo',sans-serif;font-size:11px;letter-spacing:0.18em;text-transform:uppercase;color:#96401f">Our recommendation</p>
+      <h3 style="margin:0 0 14px;font-size:32px;font-weight:500"><a href="{{ recHref }}" style="color:#221d15;text-decoration:none" style-hover="color:#96401f">{{ recTitle }} &rarr;</a></h3>
+      <p style="margin:0;font-size:18px;line-height:1.6;color:#57503f">{{ recBlurb }}</p>
+      <p style="margin:18px 0 0;font-size:16px;font-style:italic;color:#6b6152">Whatever you lift, add one or two short <a href="low_impact_hiit.html">Low-Impact HIIT</a> sessions a week for conditioning.</p>
+    </div>
+  </sc-if>
+</section>
+
+<section id="programs" style="padding:64px 0 40px">
+  <h2 style="margin:0 0 8px;font-size:34px;font-weight:500">Program Directory</h2>
+  <p style="margin:0 0 56px;font-size:19px;line-height:1.6;color:#57503f;max-width:70ch">Below is a summary of each program in this guide. Click through for the full details, workout templates, and video tutorials.</p>
+
+  <div style="display:flex;gap:48px;padding:0 0 16px;border-bottom:2px solid #221d15;align-items:baseline">
+    <span style="font-family:'Archivo',sans-serif;font-size:12px;letter-spacing:0.18em;text-transform:uppercase;color:#96401f">Novice Barbell Programs</span>
+    <span style="font-size:16px;font-style:italic;color:#6b6152">Add weight to the bar every single workout &mdash; &ldquo;Linear Progression&rdquo; for rapid strength adaptations.</span>
+  </div>
+  <a href="starting_strength.html" style="display:grid;grid-template-columns:80px 1fr 1fr;gap:40px;padding:34px 0;border-bottom:1px solid #d9d0bf;color:#221d15;text-decoration:none;align-items:baseline">
+    <span style="font-family:'Archivo',sans-serif;font-size:13px;letter-spacing:0.1em;color:#c2b7a1">01</span>
+    <span style="font-size:36px;font-weight:500;line-height:1.1" style-hover="color:#96401f">Starting Strength</span>
+    <span style="font-size:16px;line-height:1.6;color:#57503f">The gold standard of beginner programs created by Mark Rippetoe. A 3-day split of 3&times;5 on the Squat, Bench, Press, Deadlift, and Power Clean. Highly efficient; builds absolute strength extremely fast.</span>
+  </a>
+  <a href="stronglifts_5x5.html" style="display:grid;grid-template-columns:80px 1fr 1fr;gap:40px;padding:34px 0;border-bottom:1px solid #d9d0bf;color:#221d15;text-decoration:none;align-items:baseline">
+    <span style="font-family:'Archivo',sans-serif;font-size:13px;letter-spacing:0.1em;color:#c2b7a1">02</span>
+    <span style="font-size:36px;font-weight:500;line-height:1.1" style-hover="color:#96401f">StrongLifts 5&times;5</span>
+    <span style="font-size:16px;line-height:1.6;color:#57503f">A popular alternative that uses 5 sets of 5 reps and swaps the Power Clean for the Barbell Row. The higher volume can drive slightly more initial muscle growth.</span>
+  </a>
+
+  <div style="display:flex;gap:48px;padding:56px 0 16px;border-bottom:2px solid #221d15;align-items:baseline">
+    <span style="font-family:'Archivo',sans-serif;font-size:12px;letter-spacing:0.18em;text-transform:uppercase;color:#96401f">Intermediate Barbell Programs</span>
+    <span style="font-size:16px;font-style:italic;color:#6b6152">When you can no longer recover workout-to-workout, stretch the stress-and-recovery cycle over a full week.</span>
+  </div>
+  <a href="texas_method.html" style="display:grid;grid-template-columns:80px 1fr 1fr;gap:40px;padding:34px 0;border-bottom:1px solid #d9d0bf;color:#221d15;text-decoration:none;align-items:baseline">
+    <span style="font-family:'Archivo',sans-serif;font-size:13px;letter-spacing:0.1em;color:#c2b7a1">03</span>
+    <span style="font-size:36px;font-weight:500;line-height:1.1" style-hover="color:#96401f">The Texas Method</span>
+    <span style="font-size:16px;line-height:1.6;color:#57503f">A grueling 3-day intermediate program: high-volume Monday, light recovery Wednesday, and a high-intensity PR day Friday. For athletes who want a new 5-rep max every week.</span>
+  </a>
+  <a href="horn_strength.html" style="display:grid;grid-template-columns:80px 1fr 1fr;gap:40px;padding:34px 0;border-bottom:1px solid #d9d0bf;color:#221d15;text-decoration:none;align-items:baseline">
+    <span style="font-family:'Archivo',sans-serif;font-size:13px;letter-spacing:0.1em;color:#c2b7a1">04</span>
+    <span style="font-size:36px;font-weight:500;line-height:1.1" style-hover="color:#96401f">Horn Strength</span>
+    <span style="font-size:16px;line-height:1.6;color:#57503f">An ultra-minimalist &ldquo;Radically Simple Strength&rdquo; program by Paul Horn: Top Set / Back-Off Sets and flexible 2-to-4-day splits. Perfect for busy professionals.</span>
+  </a>
+
+  <div style="display:flex;gap:48px;padding:56px 0 16px;border-bottom:2px solid #221d15;align-items:baseline">
+    <span style="font-family:'Archivo',sans-serif;font-size:12px;letter-spacing:0.18em;text-transform:uppercase;color:#96401f">Specialized Programs</span>
+    <span style="font-size:16px;font-style:italic;color:#6b6152">Adapted for specific demographics or training styles.</span>
+  </div>
+  <a href="barbell_prescription.html" style="display:grid;grid-template-columns:80px 1fr 1fr;gap:40px;padding:34px 0;border-bottom:1px solid #d9d0bf;color:#221d15;text-decoration:none;align-items:baseline">
+    <span style="font-family:'Archivo',sans-serif;font-size:13px;letter-spacing:0.1em;color:#c2b7a1">05</span>
+    <span style="font-size:36px;font-weight:500;line-height:1.1" style-hover="color:#96401f">The Barbell Prescription</span>
+    <span style="font-size:16px;line-height:1.6;color:#57503f">The Starting Strength model engineered for adults over 40. Safety, modified lifts like Box Squats and Rack Pulls, and Heavy-Light-Medium programming for slower recovery.</span>
+  </a>
+  <a href="calisthenics_workout.html" style="display:grid;grid-template-columns:80px 1fr 1fr;gap:40px;padding:34px 0;border-bottom:1px solid #d9d0bf;color:#221d15;text-decoration:none;align-items:baseline">
+    <span style="font-family:'Archivo',sans-serif;font-size:13px;letter-spacing:0.1em;color:#c2b7a1">06</span>
+    <span style="font-size:36px;font-weight:500;line-height:1.1" style-hover="color:#96401f">Calisthenics</span>
+    <span style="font-size:16px;line-height:1.6;color:#57503f">Strength from body weight alone, using leverages and progressions like Pistol Squats and Planches. Do it anywhere with a pull-up bar; excellent for relative strength and control.</span>
+  </a>
+
+  <div style="display:flex;gap:48px;padding:56px 0 16px;border-bottom:2px solid #221d15;align-items:baseline">
+    <span style="font-family:'Archivo',sans-serif;font-size:12px;letter-spacing:0.18em;text-transform:uppercase;color:#96401f">Conditioning</span>
+    <span style="font-size:16px;font-style:italic;color:#6b6152">Cardio that complements heavy lifting instead of ruining it.</span>
+  </div>
+  <a href="low_impact_hiit.html" style="display:grid;grid-template-columns:80px 1fr 1fr;gap:40px;padding:34px 0;border-bottom:1px solid #d9d0bf;color:#221d15;text-decoration:none;align-items:baseline">
+    <span style="font-family:'Archivo',sans-serif;font-size:13px;letter-spacing:0.1em;color:#c2b7a1">07</span>
+    <span style="font-size:36px;font-weight:500;line-height:1.1" style-hover="color:#96401f">Low-Impact HIIT</span>
+    <span style="font-size:16px;line-height:1.6;color:#57503f">Interval protocols on the Prowler sled, Air Bike, and Rower &mdash; maximum heart rate with zero eccentric loading, so no soreness and no joint pounding.</span>
+  </a>
+</section>
+
+<section id="compare" style="padding:48px 0 80px">
+  <h2 style="margin:0 0 36px;font-size:34px;font-weight:500">At a Glance</h2>
+  <table style="width:100%;border-collapse:collapse;font-family:'Archivo',sans-serif;font-size:14px;line-height:1.5">
+    <thead>
+      <tr>
+        <th style="text-align:left;padding:0 16px 12px 0;border-bottom:2px solid #221d15;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:#6b6152;font-weight:600">Program</th>
+        <th style="text-align:left;padding:0 16px 12px 0;border-bottom:2px solid #221d15;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:#6b6152;font-weight:600">Level</th>
+        <th style="text-align:left;padding:0 16px 12px 0;border-bottom:2px solid #221d15;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:#6b6152;font-weight:600">Days / Week</th>
+        <th style="text-align:left;padding:0 16px 12px 0;border-bottom:2px solid #221d15;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:#6b6152;font-weight:600">Rep Scheme</th>
+        <th style="text-align:left;padding:0 16px 12px 0;border-bottom:2px solid #221d15;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:#6b6152;font-weight:600">Equipment</th>
+        <th style="text-align:left;padding:0 0 12px 0;border-bottom:2px solid #221d15;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:#6b6152;font-weight:600">Best For</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf;font-weight:600"><a href="starting_strength.html" style="color:#221d15;text-decoration:none" style-hover="color:#96401f">Starting Strength</a></td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Novice</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">3</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">3&times;5</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Barbell</td><td style="padding:14px 0;border-bottom:1px solid #d9d0bf;color:#57503f">Fastest absolute-strength foundation</td></tr>
+      <tr><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf;font-weight:600"><a href="stronglifts_5x5.html" style="color:#221d15;text-decoration:none" style-hover="color:#96401f">StrongLifts 5&times;5</a></td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Novice</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">3</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">5&times;5</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Barbell</td><td style="padding:14px 0;border-bottom:1px solid #d9d0bf;color:#57503f">Simplicity plus early muscle growth</td></tr>
+      <tr><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf;font-weight:600"><a href="texas_method.html" style="color:#221d15;text-decoration:none" style-hover="color:#96401f">The Texas Method</a></td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Intermediate</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">3</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Volume / Recovery / Intensity</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Barbell</td><td style="padding:14px 0;border-bottom:1px solid #d9d0bf;color:#57503f">Weekly 5RM PRs for well-fed athletes</td></tr>
+      <tr><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf;font-weight:600"><a href="horn_strength.html" style="color:#221d15;text-decoration:none" style-hover="color:#96401f">Horn Strength</a></td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Novice&ndash;Intermediate</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">2&ndash;4</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Top Set + Back-Off</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Barbell</td><td style="padding:14px 0;border-bottom:1px solid #d9d0bf;color:#57503f">Busy professionals; minimal gym time</td></tr>
+      <tr><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf;font-weight:600"><a href="barbell_prescription.html" style="color:#221d15;text-decoration:none" style-hover="color:#96401f">The Barbell Prescription</a></td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">All levels, 40+</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">2&ndash;3</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">3&times;5, Heavy-Light-Medium</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Barbell</td><td style="padding:14px 0;border-bottom:1px solid #d9d0bf;color:#57503f">Masters athletes; safety and longevity</td></tr>
+      <tr><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf;font-weight:600"><a href="calisthenics_workout.html" style="color:#221d15;text-decoration:none" style-hover="color:#96401f">Calisthenics</a></td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">All levels</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">3</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">3&ndash;4 sets, progressions</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Pull-up bar</td><td style="padding:14px 0;border-bottom:1px solid #d9d0bf;color:#57503f">Training anywhere; relative strength</td></tr>
+      <tr><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf;font-weight:600"><a href="low_impact_hiit.html" style="color:#221d15;text-decoration:none" style-hover="color:#96401f">Low-Impact HIIT</a></td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Supplement</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">1&ndash;2</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">15&ndash;20 sec sprints</td><td style="padding:14px 16px 14px 0;border-bottom:1px solid #d9d0bf">Sled / Bike / Rower</td><td style="padding:14px 0;border-bottom:1px solid #d9d0bf;color:#57503f">Conditioning without wrecking recovery</td></tr>
+    </tbody>
+  </table>
+</section>
+
+<footer style="padding:28px 0 48px;border-top:3px double #221d15;display:flex;justify-content:space-between;font-family:'Archivo',sans-serif;font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:#6b6152">
+  <span>The Strength Archive</span>
+  <span>An informational reference &mdash; consult a physician before starting any program</span>
+</footer>
+
+</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+class Component extends DCLogic {
+  state = { exp: '', age: '', equip: '', time: '' };
+  renderVals() {
+    const { exp, age, equip, time } = this.state;
+    const set = (k) => (e) => this.setState({ [k]: e.target.value });
+    let rec = null;
+    if (exp && age && equip && time) {
+      if (equip === 'minimal') rec = {
+        title: 'Calisthenics', href: 'calisthenics_workout.html',
+        blurb: 'With no barbell available, bodyweight training is the answer. The Full-Body Foundation Routine builds real strength three days a week with nothing but a pull-up bar, progressing by leverage instead of load.'
+      };
+      else if (age === 'over40') rec = {
+        title: 'The Barbell Prescription', href: 'barbell_prescription.html',
+        blurb: 'Engineered for lifters over 40: the proven Starting Strength model, adapted with modified lifts, micro-loading, and Heavy-Light-Medium programming that respects your recovery.' + (time === 'busy' ? ' Its two-day split fits a busy week perfectly.' : '')
+      };
+      else if (exp === 'new') rec = {
+        title: 'Starting Strength', href: 'starting_strength.html',
+        blurb: 'The gold standard for beginners. Three short sessions a week, five barbell lifts, and weight added every single workout. If you prefer more volume or want to skip the Power Clean, StrongLifts 5\u00d75 is a fine alternative.'
+      };
+      else if (time === 'busy') rec = {
+        title: 'Horn Strength', href: 'horn_strength.html',
+        blurb: 'Radically Simple Strength was built for exactly your situation: an experienced lifter with limited time. Top Set / Back-Off programming on flexible 2-to-4-day splits keeps you progressing while getting you out of the gym fast.'
+      };
+      else rec = {
+        title: 'The Texas Method', href: 'texas_method.html',
+        blurb: 'You have exhausted novice gains and can commit three hard days a week \u2014 the Texas Method stretches stress and recovery across the week so you can set a new 5-rep max every Friday.'
+      };
+    }
+    return {
+      onExp: set('exp'), onAge: set('age'), onEquip: set('equip'), onTime: set('time'),
+      hasRec: !!rec,
+      recTitle: rec ? rec.title : '', recHref: rec ? rec.href : '#', recBlurb: rec ? rec.blurb : ''
+    };
+  }
+}
+</script>
+</body>
+</html>
