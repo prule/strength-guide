@@ -4,6 +4,11 @@ The **Texas Method** is an intermediate strength training program. It is widely 
 
 While novice programs rely on adding weight to the bar every single workout (linear progression), an intermediate lifter can no longer recover that quickly. The Texas Method solves this by stretching the Stress-Recovery-Adaptation cycle across an entire week, rather than a single 48-hour period.
 
+## Community & Resources
+- **Reddit:** [r/weightroom](https://www.reddit.com/r/weightroom/) and [r/StartingStrength](https://www.reddit.com/r/StartingStrength/)
+- **YouTube:** [Andy Baker (Co-Author of Practical Programming)](https://www.youtube.com/@AndyBaker)
+- **Website:** [AndyBaker.com](https://www.andybaker.com)
+
 ## The Core Philosophy
 
 The Texas Method revolves around a three-day training week (typically Monday, Wednesday, Friday). Each day serves a very specific physiological purpose:

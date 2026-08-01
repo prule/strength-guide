@@ -2,6 +2,11 @@
 
 The **Starting Strength** method is a highly popular and effective barbell strength training program created by Mark Rippetoe. The program is designed primarily for beginners (or "novices" in strength training terminology) and is built on the concept of **Novice Linear Progression (NLP)**. The core philosophy is to use simple, compound, full-body barbell movements to build a foundation of absolute strength as quickly and efficiently as possible.
 
+## Community & Resources
+- **Reddit:** [r/StartingStrength](https://www.reddit.com/r/StartingStrength/)
+- **YouTube:** [Starting Strength Official Channel](https://www.youtube.com/user/AasgaardCo)
+- **Website:** [StartingStrength.com](https://startingstrength.com)
+
 ## Core Principles
 
 1. **Novice Linear Progression (NLP):** A "novice" is defined as a trainee who can apply a training stress, recover from it, and adapt to it in time for the next workout (usually within 48–72 hours). Linear progression means the lifter adds a small amount of weight to the bar every single time they train.

@@ -4,6 +4,11 @@
 
 However, because you cannot simply "add 5 pounds to the bar," progression in calisthenics is achieved by manipulating leverage, changing the angle of the exercise, performing unilateral (one-limb) movements, or slowing down the tempo.
 
+## Community & Resources
+- **Reddit:** [r/bodyweightfitness](https://www.reddit.com/r/bodyweightfitness/) (Home of the "Recommended Routine")
+- **YouTube:** [Calisthenicmovement](https://www.youtube.com/user/Calisthenicmovement)
+- **YouTube:** [FitnessFAQs](https://www.youtube.com/user/FitnessFAQs)
+
 ## The Core Movement Patterns
 
 A well-rounded calisthenics routine balances the body by hitting four major movement patterns:

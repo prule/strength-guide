@@ -4,6 +4,11 @@
 
 The central thesis of the book is that barbell training is the most effective form of "medicine" to combat the physical decline of aging.
 
+## Community & Resources
+- **YouTube:** [Greysteel Strength and Conditioning (Dr. Jonathon Sullivan)](https://www.youtube.com/c/Greysteel)
+- **YouTube:** [Andy Baker](https://www.youtube.com/@AndyBaker)
+- **Website:** [Greysteel.org](https://www.greysteel.org/)
+
 ## Core Philosophy
 
 ### 1. The "Sick Aging Phenotype"

@@ -4,6 +4,11 @@ The **Horn Strength** method is detailed in the book *Radically Simple Strength*
 
 It takes the core principles of the Starting Strength linear progression but strips away unnecessary complexity, eventually shifting to lower volume and highly flexible templates so trainees can get in, get strong, and get out of the gym.
 
+## Community & Resources
+- **Reddit:** [r/hornstrength](https://www.reddit.com/r/hornstrength/)
+- **YouTube:** [Horn Strength Official Channel](https://www.youtube.com/@HornStrength)
+- **Website:** [HornStrength.com](https://hornstrength.com)
+
 ## Core Philosophy
 
 1.  **Extreme Minimalism:** You only perform the exercises that provide the highest return on investment: Squats, Deadlifts, Presses, Bench Presses, and Chin-ups. As you advance, a few accessories (curls, triceps extensions) are added, but the focus remains narrow.

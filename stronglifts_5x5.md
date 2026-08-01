@@ -4,6 +4,11 @@
 
 The primary goal of StrongLifts is to build a foundation of absolute strength and muscle mass by adding small amounts of weight to the bar every single workout.
 
+## Community & Resources
+- **Reddit:** [r/Stronglifts5x5](https://www.reddit.com/r/Stronglifts5x5/)
+- **YouTube:** [StrongLifts Official Channel](https://www.youtube.com/c/Stronglifts)
+- **Website:** [Stronglifts.com](https://stronglifts.com)
+
 ## Core Principles
 
 1. **Simplicity:** There are only two workouts, consisting of five core barbell exercises. 
