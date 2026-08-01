@@ -211,24 +211,25 @@ article ol.principles li p {
   border-bottom-color: #6e2d13;
 }
 
-/* Workout Grids (Tables) */
-.workout-grid {
+/* Workout Grids (Tables) — scoped to article so they don't affect the
+   index page's hand-styled "At a Glance" comparison table */
+article .workout-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 24px;
   margin-bottom: 24px;
 }
-.workout-grid.three-col {
+article .workout-grid.three-col {
   grid-template-columns: 1fr 1fr 1fr;
 }
-table {
+article table {
   width: 100%;
   background: #fffdf8;
   border: 1px solid #d9d0bf;
   border-collapse: collapse;
   margin-bottom: 24px;
 }
-thead th {
+article thead th {
   padding: 12px 22px;
   border-bottom: 2px solid #221d15;
   font-family: 'Archivo', sans-serif;
@@ -239,18 +240,18 @@ thead th {
   text-align: left;
 }
 /* Hide the second column header visually since it is just empty in the markdown table */
-thead th:last-child {
+article thead th:last-child {
   visibility: hidden;
 }
-tbody td {
+article tbody td {
   padding: 12px 22px;
   border-bottom: 1px solid #e8e1d3;
   font-size: 17px;
 }
-tbody tr:last-child td {
+article tbody tr:last-child td {
   border-bottom: none;
 }
-tbody td:last-child {
+article tbody td:last-child {
   text-align: right;
   font-family: 'Archivo', sans-serif;
   font-size: 14px;
