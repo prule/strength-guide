@@ -70,7 +70,8 @@ const order = [
   { id: 'horn_strength', title: 'Horn Strength', subtitle: 'Intermediate Barbell Program · No. 04' },
   { id: 'barbell_prescription', title: 'The Barbell Prescription', subtitle: 'Masters Barbell Program · No. 05' },
   { id: 'calisthenics_workout', title: 'Calisthenics', subtitle: 'Bodyweight Program · No. 06' },
-  { id: 'low_impact_hiit', title: 'Low-Impact HIIT', subtitle: 'Conditioning · No. 07' }
+  { id: 'low_impact_hiit', title: 'Low-Impact HIIT', subtitle: 'Conditioning · No. 07' },
+  { id: 'equipment', title: 'The Equipment Guide', subtitle: 'Reference · Gear & Setup' }
 ];
 
 mdFiles.forEach(file => {

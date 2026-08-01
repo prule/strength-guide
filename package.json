@@ -12,6 +12,6 @@
   "private": true,
   "devDependencies": {
     "marked": "^18.0.7",
-    "wrangler": "^4.112.0"
+    "wrangler": "^4.116.0"
   }
 }
