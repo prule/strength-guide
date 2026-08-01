@@ -15,7 +15,6 @@ It takes the core principles of the Starting Strength linear progression but str
 2.  **Top Set / Back-Off Set:** Unlike programs that force you to do 5 sets of 5 (StrongLifts) or 3 sets of 5 (Starting Strength) forever, Horn Strength transitions intermediate lifters to a "Top Set and Back-Off Set" model. You give maximum effort on one heavy set, then drop the weight by roughly 10% for a lighter, higher-rep back-off set. This drastically reduces the time spent in the gym while still driving progress.
 3.  **Never Take Weight Off the Bar:** Unless you are injured or completely stalled, the goal is always forward momentum. If you fail a rep target, you repeat the weight next time; you don't immediately "deload" just because of a bad day.
 
----
 
 ## Technique and Breathing
 
@@ -32,7 +31,6 @@ Because Horn is a Starting Strength coach, the technique is identical:
 - **Overhead Press:** [Watch Overhead Press Tutorial](https://www.youtube.com/watch?v=8dacy5hjaE8)
 - **Deadlift:** [Watch Deadlift Tutorial](https://www.youtube.com/watch?v=p2OPUi4xGrM)
 
----
 
 ## Programming Templates
 
@@ -70,7 +68,6 @@ If you can only train twice a week, you do full-body sessions that alternate hea
 *   **The Rep Range:** When doing a Top Set of 3-5 reps, you pick a weight. If you get 5 reps, you add weight next time. If you only get 3 or 4 reps, you stay at that weight next time until you achieve 5.
 *   **The Back-off Set:** The back-off set is typically 10% lighter than the Top Set, done for a higher rep range (e.g., 5-8 reps) to build muscle volume without the crushing CNS fatigue of a heavy set.
 
----
 
 ## Recommended Reading
 To fully understand the templates and the rationale behind the program, it is highly recommended to read the source material:

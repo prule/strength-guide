@@ -17,7 +17,6 @@ The Texas Method revolves around a three-day training week (typically Monday, We
 2. **Recovery Day (Recovery):** A light session designed to promote blood flow, practice technique, and mitigate detraining without adding to the systemic fatigue generated on Volume Day.
 3. **Intensity Day (Adaptation):** A low-volume, maximum-effort session where the lifter demonstrates the new strength built over the week by hitting a new Personal Record (PR).
 
----
 
 ## Technique and Breathing
 
@@ -61,7 +60,6 @@ The standard protocol is **1 set of 5 reps (1x5)**.
 *   **Bench Press or Overhead Press:** 1x5 (Aiming for a new 5RM PR)
 *   **Power Clean / Power Snatch:** 5x3 or 6x2 (Explosive pulling movement to balance out the heavy Deadlift on Monday)
 
----
 
 ## Progression Mechanics
 
@@ -84,7 +82,6 @@ Once a lifter exhausts these cycles, they may need to move to a more advanced la
 *   **Nutrition:** You cannot do the Texas Method on a calorie deficit. It requires massive amounts of food and sleep to recover from Monday's volume in time for Friday's PR attempt.
 *   **Flexibility:** While the template above is the "standard" version, the Texas Method is a *framework*. It can be adapted to 4-day splits (separating upper body and lower body) for older lifters or those who cannot tolerate the brutal full-body Volume Day.
 
----
 
 ## Recommended Reading
 The Texas Method, along with many other intermediate and advanced programs, is detailed extensively in:

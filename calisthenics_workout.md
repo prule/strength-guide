@@ -20,7 +20,6 @@ A well-rounded calisthenics routine balances the body by hitting four major move
 5.  **Legs:** Squats, Lunges, Pistol Squats, Nordic Curls. (Targets the quads, hamstrings, and glutes).
 6.  **Core:** Hanging Leg Raises, L-Sits, Hollow Body Holds. (Targets the abdominals and hip flexors).
 
----
 
 ## Technique and Breathing
 
@@ -68,7 +67,6 @@ Perform each exercise for **3 to 4 sets**. Rest for **90 to 120 seconds** betwee
     *   *Regression:* Hanging Knee Raises or Lying Floor Leg Raises.
     *   *Progression:* Toes-to-Bar or L-Sit Holds.
 
----
 
 ## How to Progress (Progressive Overload)
 
@@ -79,7 +77,6 @@ In a barbell program, you progress by adding weight. In calisthenics, you use th
 3.  **Time Under Tension (Tempo):** Slow down the movement. Try doing a push-up where you take 3 seconds to lower yourself, pause for 1 second at the bottom, and take 3 seconds to push back up. This drastically increases the difficulty without changing the exercise.
 4.  **Decrease Rest Time:** If a workout becomes easy, try reducing your rest periods from 90 seconds to 60 seconds.
 
----
 
 ## Recommended Reading
 For an exhaustive guide on bodyweight progressions, gymnastics programming, and overcoming gravity, the industry standard is:

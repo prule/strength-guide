@@ -6,7 +6,6 @@ The solution is **Low-Impact HIIT**. The goal is to elevate the heart rate to it
 
 Here are the best low-impact HIIT options and how to program them.
 
----
 
 ## 1. The Gold Standard: The Prowler (Weighted Sled)
 
@@ -21,7 +20,6 @@ Pushing a heavy sled is widely considered the ultimate conditioning tool for str
 4.  **Sets:** Repeat this cycle for **5 to 8 rounds**.
 5.  **Cool Down:** Walk slowly for 5 minutes.
 
----
 
 ## 2. The Air Bike (Assault Bike / Rogue Echo Bike)
 
@@ -36,7 +34,6 @@ If a sled is unavailable, a fan resistance bike (where you use both your arms an
 4.  **Sets:** Repeat for **5 to 7 rounds**.
 5.  **Cool Down:** Pedal slowly for 3-5 minutes.
 
----
 
 ## 3. The Rowing Machine (Concept2 Rower)
 
@@ -51,7 +48,6 @@ Rowing provides a phenomenal full-body cardiovascular workout with very low impa
 4.  **Sets:** Repeat for **6 to 8 rounds**.
 5.  **Cool Down:** Easy rowing for 3-5 minutes.
 
----
 
 ## How to Integrate HIIT with Barbell Training
 

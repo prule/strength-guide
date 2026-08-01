@@ -32,7 +32,6 @@ To lift heavy weights safely, you must maintain core rigidity using the **Valsal
 4. **Overhead Press (The Press):** A strict standing press for shoulder and arm strength. [Watch Overhead Press Tutorial](https://www.youtube.com/watch?v=8dacy5hjaE8)
 5. **Deadlift:** The heaviest pull, working the entire posterior chain. [Watch Deadlift Tutorial](https://www.youtube.com/watch?v=p2OPUi4xGrM)
 
----
 
 ## Program Structure
 
@@ -55,7 +54,6 @@ You train three times a week, alternating Workout A and Workout B.
 *   **Week 1:** Monday (Workout A), Wednesday (Workout B), Friday (Workout A)
 *   **Week 2:** Monday (Workout B), Wednesday (Workout A), Friday (Workout B)
 
----
 
 ## Progression Mechanics
 
@@ -74,7 +72,6 @@ If you successfully complete all 5 sets of 5 reps with proper form, you add weig
 You will eventually fail to get 5 reps on all 5 sets. If you fail to hit 5x5, you stay at that weight for the next workout.
 *   **The Deload Protocol:** If you fail to get 5x5 on a specific exercise for **three workouts in a row**, you must "deload." This means reducing the weight on that specific exercise by **10%** for the next workout. You then resume adding 5 lbs per session to build momentum back past your plateau.
 
----
 
 ## Advanced Progression (When 5x5 Stops Working)
 
@@ -92,7 +89,6 @@ While very similar, the main differences are:
 - StrongLifts uses the Barbell Row instead of the Power Clean.
 - StrongLifts generally encourages starting with the empty bar, whereas Starting Strength recommends working up to a challenging weight on Day 1.
 
----
 
 ## Recommended Resources
 StrongLifts does not have a physical book on Amazon, but the entire program is detailed on the creator's website and app:

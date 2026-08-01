@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Deploy the static site in ./site to Cloudflare Pages.
-# Usage: ./deploy.sh   (or: npm run deploy)
+# Usage: ./deploy.sh   (or: pnpm run deploy)
 # See DEPLOY.md for full instructions.
 set -euo pipefail
 

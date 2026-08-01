@@ -20,7 +20,6 @@ The book treats exercise as a medical prescription. The "dosage" (the volume and
 ### 3. Strength is the Primary Adaptation
 While flexibility, cardiovascular endurance, and balance are important, the authors argue that **absolute strength** is the physical attribute that most directly improves all other aspects of an aging adult's life.
 
----
 
 ## Technique and Breathing
 
@@ -97,7 +96,6 @@ For the Masters athlete, recovery is the primary limiting factor. The book empha
 *   **Sleep:** Non-negotiable for hormone regulation and tissue repair.
 *   **Patience:** The ego must be left at the door. Progress for a 65-year-old will be slower than for a 20-year-old, and the programming must reflect the reality of their physiology. 
 
----
 
 ## Recommended Reading
 To fully grasp the physiology of aging and the detailed programming adjustments required for older lifters, refer to the book:

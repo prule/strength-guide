@@ -31,7 +31,6 @@ Starting Strength revolves around five primary barbell exercises. Below are link
 - **The Overhead Press (The Press):** A strict standing barbell press that builds shoulder, triceps, and upper back strength. [Watch Overhead Press Tutorial](https://www.youtube.com/watch?v=8dacy5hjaE8)
 - **The Power Clean:** An explosive movement introduced later in the program to build power and speed. [Watch Power Clean Tutorial](https://www.youtube.com/watch?v=37-wjE_c4NU&list=PLNhFKPjedRnSuMhR1STqBdGWjg7JTPhjF)
 
----
 
 ## Program Structure and Phases
 
@@ -83,7 +82,6 @@ Eventually, squatting heavy three days a week becomes impossible to recover from
 - Press / Bench Press: 3x5
 - Power Clean: 5x3 (or Deadlift)
 
----
 
 ## Progression and Stalling
 
@@ -96,7 +94,6 @@ Starting Strength emphasizes that you don't get stronger by lifting weights; you
 - **Caloric Surplus:** The program famously advocates eating a significant caloric surplus (sometimes jokingly referred to as GOMAD - Gallon of Milk A Day - for severely underweight teens) to fuel recovery and muscle growth.
 - **Sleep:** 8+ hours of quality sleep per night is considered non-negotiable.
 
----
 
 ## Recommended Reading
 The definitive guide to learning the lifts and understanding the mechanics of barbell training is the original textbook:
