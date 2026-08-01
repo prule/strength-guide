@@ -13,9 +13,11 @@ if (!fs.existsSync(siteDir)) {
   fs.mkdirSync(siteDir);
 }
 
-// Read all files
-const files = fs.readdirSync(__dirname);
-const mdFiles = files.filter(f => f.endsWith('.md') && f !== 'README.md' && f !== 'index.md' && f !== 'implementation_plan.md' && f !== 'task.md');
+const contentDir = path.join(__dirname, 'content');
+
+// Read all content files
+const files = fs.readdirSync(contentDir);
+const mdFiles = files.filter(f => f.endsWith('.md'));
 
 const template = (title, content, nextProgram) => `<!DOCTYPE html>
 <html>
@@ -82,7 +84,7 @@ mdFiles.forEach(file => {
     title: order[currentIndex + 1].title
   } : null;
 
-  const markdown = fs.readFileSync(path.join(__dirname, file), 'utf8');
+  const markdown = fs.readFileSync(path.join(contentDir, file), 'utf8');
   
   // Custom pre-processing for title/subtitle
   // We'll strip the first # Header and replace it with our own branded header
