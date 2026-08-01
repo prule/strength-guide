@@ -6,8 +6,15 @@ However, because you cannot simply "add 5 pounds to the bar," progression in cal
 
 ## Community & Resources
 - **Reddit:** [r/bodyweightfitness](https://www.reddit.com/r/bodyweightfitness/) (Home of the "Recommended Routine")
-- **YouTube:** [Calisthenicmovement](https://www.youtube.com/user/Calisthenicmovement)
-- **YouTube:** [FitnessFAQs](https://www.youtube.com/user/FitnessFAQs)
+
+## Steven Low & Overcoming Gravity
+
+For programming your own routine, no resource is more thorough than the work of **Steven Low** — a former gymnast and Doctor of Physical Therapy whose book is widely regarded as the "bodyweight bible."
+
+- **Website:** [stevenlow.org](https://stevenlow.org) — articles on programming, injury management, and progressions.
+- **The Book:** [Overcoming Gravity (2nd Edition)](https://stevenlow.org/overcoming-gravity/) — a systematic approach to gymnastics and bodyweight strength, including the progression charts for planning your own program.
+- **Video Series:** [Overcoming Gravity Online](https://stevenlow.org/overcoming-gravity-online-video-series/) — a video supplement that walks through the concepts in the book.
+- **YouTube:** [Steven Low (eshlow)](https://www.youtube.com/user/eshlow) — tutorials and Q&A on technique and programming.
 
 ## The Core Movement Patterns
 
