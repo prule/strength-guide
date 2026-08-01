@@ -41,9 +41,13 @@ const template = (title, content, nextProgram) => `<!DOCTYPE html>
   </nav>
 </header>
 
+<p class="content-disclaimer content-disclaimer--top">This guide is a light summary intended as an overview. For accurate and complete details, always refer to the official books, coaches, and resources linked below.</p>
+
 <article data-screen-label="${title}">
   ${content}
 </article>
+
+<p class="content-disclaimer">This guide is a light summary intended as an overview. For accurate and complete details, always refer to the official books, coaches, and resources linked above.</p>
 
 <footer class="page-footer">
   <a href="index.html">

@@ -258,6 +258,24 @@ article tbody td:last-child {
   font-weight: 600;
 }
 
+/* Content disclaimer */
+.content-disclaimer {
+  margin: 56px 0 0;
+  padding-top: 24px;
+  border-top: 1px solid #d9d0bf;
+  font-size: 14px;
+  line-height: 1.6;
+  font-style: italic;
+  color: #6b6152;
+}
+.content-disclaimer--top {
+  margin: 0 0 40px;
+  padding-top: 0;
+  padding-bottom: 24px;
+  border-top: none;
+  border-bottom: 1px solid #d9d0bf;
+}
+
 /* Footer */
 footer.page-footer {
   margin-top: 88px;
