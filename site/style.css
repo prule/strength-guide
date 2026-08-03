@@ -258,6 +258,29 @@ article tbody td:last-child {
   font-weight: 600;
 }
 
+/* Horizontal-scroll fallback for wide, many-column tables (e.g. the
+   index page's "At a Glance" comparison table) that can't be usefully
+   stacked into a single column on narrow screens */
+.table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Mobile: workout-grid tables sit side by side on desktop, which
+   squeezes each table's exercise/rep columns unreadably narrow on
+   phones — stack them into a single column instead */
+@media (max-width: 700px) {
+  article .workout-grid,
+  article .workout-grid.three-col {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  article thead th,
+  article tbody td {
+    padding: 10px 14px;
+  }
+}
+
 /* Content disclaimer */
 .content-disclaimer {
   margin: 56px 0 0;
