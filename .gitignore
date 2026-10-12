@@ -2,3 +2,11 @@
 node_modules/
 .wrangler/
 .idea/
+
+# Enforce pnpm: these must never be committed.
+package-lock.json
+yarn.lock
+npm-shrinkwrap.json
+
+# JetBrains IDE config — machine-local.
+.idea/
